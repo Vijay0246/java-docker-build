@@ -12,7 +12,6 @@ to minimize the size of the generated Docker image.
 > **Golang developer?** Check out https://github.com/miguno/golang-docker-build-tutorial
 
 
-
 # Requirements
 
 Docker must be installed. That's it. You do not need a Java JDK or Maven installed.
