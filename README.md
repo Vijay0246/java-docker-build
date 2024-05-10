@@ -54,5 +54,3 @@ $ mvn package
 # Run the application locally
 $ java -jar target/app.jar
 ```
-
-
